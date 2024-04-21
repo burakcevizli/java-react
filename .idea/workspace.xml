@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48570945-7edb-4724-a9ca-028a8f5ed94c" name="Changes" comment="First Inıt for crud operations react with java" />
+    <list default="true" id="48570945-7edb-4724-a9ca-028a8f5ed94c" name="Changes" comment="First Inıt for crud operations react with java2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "burakcevizli"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/burakcevizli/java-react-api.git",
@@ -121,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713710013002</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Inıt for crud operations react with java">
+      <option name="closed" value="true" />
+      <created>1713710274978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713710274978</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Inıt for crud operations react with java2">
+      <option name="closed" value="true" />
+      <created>1713710535536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713710535536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Inıt for crud operations react with java" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Inıt for crud operations react with java" />
+    <MESSAGE value="First Inıt for crud operations react with java2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Inıt for crud operations react with java2" />
   </component>
 </project>
