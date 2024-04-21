@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48570945-7edb-4724-a9ca-028a8f5ed94c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-React.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/exception/CustomExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/exception/StudentAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/exception/StudentNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/service/IStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sbr/demo/service/StudentService.java" afterDir="false" />
-    </list>
+    <list default="true" id="48570945-7edb-4724-a9ca-028a8f5ed94c" name="Changes" comment="First Inıt for crud operations react with java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/burakcevizli/java-react-api.git",
+    "accountId": "629b2924-877a-43f5-a02d-a9ff5c4f8d5e"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -58,7 +49,7 @@
   "keyToString": {
     "Application.DemoApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "D:/Workintech/Java-React/Java-React/src/main/java/sbr/demo",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -98,6 +89,54 @@
       <option name="presentableId" value="Default" />
       <updated>1713698192308</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Inıt for crud operations react with java">
+      <option name="closed" value="true" />
+      <created>1713709855155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713709855155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Inıt for crud operations react with java">
+      <option name="closed" value="true" />
+      <created>1713709878875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713709878875</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Inıt for crud operations react with java">
+      <option name="closed" value="true" />
+      <created>1713709977564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713709977564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Inıt for crud operations react with java">
+      <option name="closed" value="true" />
+      <created>1713710013002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713710013002</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Inıt for crud operations react with java" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Inıt for crud operations react with java" />
   </component>
 </project>
