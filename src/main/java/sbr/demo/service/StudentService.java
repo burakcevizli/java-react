@@ -28,7 +28,7 @@ public class StudentService implements IStudentService{
         return studentRepository.save(student);
     }
 
-
+//Pushlamak için
 
     @Override
     public Student updateStudent(Student student, Long id) {
